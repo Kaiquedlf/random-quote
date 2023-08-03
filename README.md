@@ -4,6 +4,8 @@ Random Quote 🗨️
 
 ![homepage](https://github.com/Kaiquedlf/random-quote/assets/91236437/f957bd6c-b318-4247-9e7f-9b6dcca14270)
 
+<a href='https://random-quote-p7hcgpqj5-kaiquedlf.vercel.app/' target='_blank'>Preview</a>
+
 </h1>
 
 ## 📕 About
