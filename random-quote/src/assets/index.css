@@ -46,4 +46,5 @@ body{
     font-size: 1em;
     border: none;
     padding: 10px;
+    cursor: pointer;
 }
